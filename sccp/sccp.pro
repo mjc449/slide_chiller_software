@@ -5,6 +5,7 @@
 TEMPLATE = app
 TARGET = sccp
 DESTDIR = ../x64/Debug
+QT += charts
 CONFIG += debug
 LIBS += -L"."
 DEPENDPATH += .
